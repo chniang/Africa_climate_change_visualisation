@@ -214,6 +214,27 @@ Le projet inclut **8 types de visualisations** professionnelles :
 
 ---
 
+
+---
+
+## 📸 Aperçu des visualisations
+
+### 🌡️ Évolution des températures (1980-2023)
+![Évolution températures](viz_1_evolution_temperatures.png)
+*Tendance claire du réchauffement climatique sur 43 ans*
+
+### 📦 Comparaison Avant vs Après 2000
+![Comparaison](viz_2_comparison_before_after.png)
+*Augmentation visible des températures maximales, moyennes et minimales*
+
+### 🔥 Heatmap par année et pays
+![Heatmap](viz_3_heatmap_temperatures.png)
+*Intensification du réchauffement particulièrement visible après 2000*
+
+### 🔥 Augmentation par pays
+![Augmentation](viz_5_augmentation_par_pays.png)
+*Le Cameroun est le pays le plus touché avec +2.63°F*
+
 ## 🚀 Installation
 
 ### 📋 Prérequis
@@ -359,3 +380,4 @@ Ce projet est sous licence **MIT**. Les données climatiques proviennent de sour
 ![Made in Senegal](https://img.shields.io/badge/Made_in-Sénégal_🇸🇳-00853F?style=for-the-badge)
 
 </div>
+
